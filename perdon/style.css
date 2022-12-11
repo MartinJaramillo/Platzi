@@ -1,0 +1,127 @@
+*
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20;
+}
+html
+{
+    color: rgba(12, 12, 12, 0.781);
+    font-size: 2em;
+}
+#title
+{
+    color: rgb(255, 255, 255);
+    margin: 0%;
+    text-align: initial;
+    font-size: 1em;
+}
+body
+{
+   
+    background-color: rgba(12, 12, 12, 0.781);
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+header
+{
+    background-color: rgb(37, 37, 37);
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 0 auto;
+    margin:0 auto;
+}
+#autor
+{
+    font-size: 0.7em;
+    
+
+}
+#tu_blog
+{
+    text-align: center;
+    color: rgb(243, 93, 93);
+}
+#confesion
+{
+    text-align: center;
+    color: rgb(119, 255, 255);
+    font-size: 1em;
+}
+#container  
+{
+    
+    margin: 10;
+    background-color: rgb(89, 90, 92);
+    align-self: center;
+    padding: 1%;
+}
+#titulo
+{
+    font-size: 2em;
+    color: rgb(255, 255, 255);
+
+
+}
+#pregunta
+{
+ font-size: 0.9em;
+}
+#si
+{
+    background-color: aquamarine;
+border: none;
+color: blanco;
+padding: 10px 15px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}
+#no
+{
+    background-color: aquamarine;
+    border: none;
+    color: blanco;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+}
+#chupame
+{
+    background-color: #7fffd4;
+    border: none;
+    color: blanco;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#document
+{
+    color: #7fffd4;
+        text-align: left;
+}
+#tqm
+{
+    color: #7fffd4;
+        text-align: left;
+    
+}
+#sad
+{
+    color: #7fffd4;
+        text-align: left;
+}
+#pedir
+{
+    color: rgb(255, 255, 255);
+}
