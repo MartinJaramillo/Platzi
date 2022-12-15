@@ -1,5 +1,5 @@
 var banco_cliente= true
-var cuenta_cliente= true
+var cuenta_cliente= false
 var saldo_cliente= 2
 var banco_destino= false
 var cuenta_destino= false
@@ -50,7 +50,7 @@ if(banco_cliente == true)
     }
     else(!cuenta_cliente == true)
     {
-        Cajero("lo sentimos esta no es su cuenta")
+        document.write("lo sentimos esta no es su cuenta")
     }
 }
 else(!banco_cliente == true )
