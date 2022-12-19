@@ -1,0 +1,44 @@
+*
+{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+header
+{
+    padding: 4px;
+    background-color: rgb(122, 122, 122);
+}
+html
+{
+    font-size: 62.5%;
+}
+body
+{
+    background-color: rgb(53, 53, 54);
+}
+.navigation
+{
+    margin-top: 10px;
+    list-style: none;
+    padding-left: 0;
+}
+.navigation li
+{
+    display: inline-block;
+    font-size: 2rem;
+    text-align: left;
+    margin: 10px;
+    color: rgb(122, 122, 122);
+}
+a{
+    color: white;
+    background-color: rgb(122, 122, 122);
+    padding: 5px;
+    border-radius: 2px;
+    text-decoration: none;
+}
+.navigation .login
+{
+    background-color: #9a6a79   ;
+}
