@@ -94,6 +94,6 @@ main{
     filter: brightness(1.1);
     mix-blend-mode: multiply;
     position: absolute;
-    margin-left: 528px;
+    margin-left: 440px;
     margin-top: -32px;
 }
