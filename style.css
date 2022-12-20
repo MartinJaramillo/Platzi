@@ -1,44 +1,99 @@
-*
-{
+*{
     box-sizing: border-box;
-    padding: 0%;
-    margin: 0%;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(16, 16, 17);
 }
-header
-{
-    padding: 4px;
-    background-color: rgb(122, 122, 122);
+main{
+    width: 100vw;
+    height: 100vh;
+    
 }
-html
-{
-    font-size: 62.5%;
+/*section{
+    width: 80%;
+    min-width: 120px;
+    max-width: 500px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: rgb(37, 37, 37);
+}*/
+.cuadro_up{
+    background-color: rgb(97, 255, 66);
+    width: 100%;
+    min-width: 10px;
+    max-width: 169px;
+    height: 37px;
+    border-radius: 89px;
+    margin: 0 auto;
+    margin-top: -505px;
+    
+    
 }
-body
-{
-    background-color: rgb(53, 53, 54);
+.cuadro{
+    margin-top: 60px;
+    width: 100%;
+    min-width: 120px;
+    max-width: 500px;
+    height: 487px;
+    background-color: rgb(37, 37, 37);
+    margin: 0 auto;
+    margin-top: 20px;
+
 }
-.navigation
-{
-    margin-top: 10px;
-    list-style: none;
-    padding-left: 0;
+ 
+.mdbimg{
+    margin-top: 64px;
+    margin-left: 132px;
 }
-.navigation li
-{
-    display: inline-block;
-    font-size: 2rem;
-    text-align: left;
-    margin: 10px;
-    color: rgb(122, 122, 122);
+.mdb{
+    background-color: rgb(97, 255, 66);
+    text-align: center;
+    font-family: roboto black;
+    font-size: 25px;
+    border-radius: 89px;
 }
-a{
-    color: white;
-    background-color: rgb(122, 122, 122);
-    padding: 5px;
-    border-radius: 2px;
-    text-decoration: none;
+.desc{
+    background-color: rgb(37, 37, 37);
+    color: aliceblue;
+    text-align: center;
+    font-family: roboto black;
+    font-style: normal;    
+    margin-top: 15px;
+    font-size: 30px;
 }
-.navigation .login
-{
-    background-color: #9a6a79   ;
+.abajo{
+    background-color: rgb(97, 255, 66);
+    color: aliceblue;
+    height: 0px;
+    margin-top: 23px;
+    margin-left: 0px;
+    margin: 0 auto;
+    width: 498px
+    
+    
+    
+}
+.repro{
+ color: rgb(0, 0, 0);
+ font-family: roboto black;
+ font-size: 22px;
+ 
+ background-color: rgb(97, 255, 66);
+ width: 500px;
+ height: 30px;
+ margin: 0 auto;
+ margin-left: 0px;
+ margin-top: 436px;
+
+}
+.mando{
+    
+    
+   
+    background-color: rgb(97, 255, 66);
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+    position: absolute;
+    margin-left: 528px;
+    margin-top: -32px;
 }
